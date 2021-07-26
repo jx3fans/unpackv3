@@ -1,3 +1,6 @@
+强烈鄙视把代码拿去卖分的无耻之徒！比如CSDN这位：https://download.csdn.net/download/weixin_42099755/16044157 (请顺手帮举报下这资源惯盗！)
+===
+
 剑网三 PakV3 解包源码
 ===
 
